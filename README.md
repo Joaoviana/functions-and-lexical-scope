@@ -11,15 +11,15 @@ In the creation phase, the variables that are declared in the global scope are h
 
 ## Learning objectives (keywords)
 <p>In this given snippet, the main points that came out were:</p>
-  * Lexical Scope
-  * Having more than 1 variable point to the same function object
+  * Lexical Scope 
+  * Having more than 1 variable point to the same function object 
 
 ## Code snippet
 ```js
 let arg = 0;
-	let meeyn = nyeem;
-	function nyeem(param) {
-  	  var result = param;
+let meeyn = nyeem;
+function nyeem(param) {
+  var result = param;
   return result;
 	};
 let ret_val = meeyn(arg);
@@ -28,16 +28,9 @@ console.log(ret_val);
 [repl.it]()  
 [pythontutor]()  
 
+## Trace Diagram
 
-## Vocabulary
-   
-## Review
-* Struggles:   
-  * 
-* Learning objectives that need extra work?   
-  *
-* next steps:   
-  * 
+<a href="https://ibb.co/khdtfz"><img src="https://preview.ibb.co/mEDR0z/IMG_7007.jpg" alt="IMG_7007" border="0"></a>
    
 ## Helpful links
 [A Drip Of JavaScript - Variable and Function Hoisting](http://adripofjavascript.com/blog/drips/variable-and-function-hoisting.html)
