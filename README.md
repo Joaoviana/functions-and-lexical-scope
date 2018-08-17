@@ -27,8 +27,6 @@ function nyeem(param) {
 let ret_val = meeyn(arg);
 console.log(ret_val);
 ```
-[repl.it]()  
-[pythontutor]()  
 
 ## Trace Diagram
 
