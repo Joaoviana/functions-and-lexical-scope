@@ -11,8 +11,10 @@ In the creation phase, the variables that are declared in the global scope are h
 
 ## Learning objectives (keywords)
 <p>In this given snippet, the main points that came out were:</p>
-  *Lexical Scope 
-  *Having more than 1 variable point to the same function object 
+
+  * Lexical Scope 
+  
+  * Having more than 1 variable point to the same function object 
 
 ## Code snippet
 ```js
