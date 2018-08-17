@@ -23,7 +23,7 @@ let meeyn = nyeem;
 function nyeem(param) {
   var result = param;
   return result;
-	};
+};
 let ret_val = meeyn(arg);
 console.log(ret_val);
 ```
